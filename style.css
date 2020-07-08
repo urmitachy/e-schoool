@@ -1,0 +1,127 @@
+.bg-light{
+    background-color: #F0FFF0 !important;
+    
+}
+
+
+.sign-in{
+   color: white;
+   background-color: Green;
+   border-radius: 20px;
+   border: none;
+   width: 90px;
+   height: 40px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+   
+}
+#header{
+    padding:110px 90px;
+   
+}
+#header h6{
+    color: #FD511A ;
+}
+#header h1{
+  
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+color: #000000;
+}
+span{
+    color:  #21B573;
+}
+.btn-get-started{
+    background-color: #21B573;
+    color:white;
+    border: none;
+    width: 153px;
+    height: 43px;
+    border-radius: 20px;
+}
+#books{
+    margin-top: 10%;
+}
+.normal-books{
+    background: #F8FFFB;
+border-radius: 10px;
+}
+.special-books{
+    background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+
+}
+#course{
+    margin-top: 10%;
+   }
+.online-courses{
+    text-align: center;
+    margin-bottom: 10%;
+    color: #413960;
+    font-weight: bold;
+}
+.card-title{
+    font-weight: 500;
+font-size: 24px;
+color: #413960;
+}
+.card-text{
+    color: #585859;
+}
+.card{
+    padding: 20px 20px;
+    border: none;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 18px;
+}
+.buy-course-button{
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+    padding: 8px 28px;
+    color: white;
+
+}
+.card-timer{
+ font-style: normal;
+font-weight: 200;
+font-size: 16px;
+line-height: 24px;
+}
+.testimonial{
+    text-align: center;
+    margin-top: 10%;
+    color: #000000;
+    font-weight: bold;
+    margin-bottom: 10%;
+}
+.image{
+    width: 200px;
+    
+}
+.poetry{
+    padding: 20px 20px;
+
+}
+.terminal{
+    margin-top: 10%;
+    background: #282531;
+    color: #FFFFFF;
+    width: 1463px;
+    height: 369px;
+    padding: 50px 30px;
+
+}
+.last-part{
+    padding: 20px 80px;
+}
+.text-center{
+    margin-top: 8%;
+}
+
+
